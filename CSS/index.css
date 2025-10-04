@@ -15,7 +15,8 @@ header {
   height: 837px;
   background: rgba(1, 37, 83, 1);
   display: flex;
-  background-image: url(../assets/images/header_bg_purple.png),url(../assets/images/Developer.png);
+  background-image: url(../assets/images/header_bg_purple.png),
+    url(../assets/images/Developer.png);
   background-repeat: no-repeat;
   background-position: bottom right, top left;
   margin-bottom: 130px;
@@ -216,13 +217,16 @@ nav li a {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: auto;
 }
 .wcontainer {
-  width: 1340px;
   text-align: center;
   gap: 40px;
   display: flex;
   flex-direction: column;
+  height: auto;
+  align-items: center;
+  justify-content: center;
 }
 
 .what-i-do {
@@ -251,6 +255,10 @@ nav li a {
   display: flex;
   gap: 24px;
   flex-wrap: wrap;
+  height: auto;
+  flex: 1 1 300px;
+  justify-content: center; 
+  align-items: stretch; 
 }
 
 .js,
