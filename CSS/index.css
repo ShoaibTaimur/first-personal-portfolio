@@ -15,8 +15,8 @@ header {
   height: 837px;
   background: rgba(1, 37, 83, 1);
   display: flex;
-  background-image: url(assets/images/header_bg_purple.png),
-    url(assets/images/Developer.png);
+  background-image: url(../assets/images/header_bg_purple.png),
+    url(../assets/images/Developer.png);
   background-repeat: no-repeat;
   background-position: bottom right, top left;
   margin-bottom: 130px;
