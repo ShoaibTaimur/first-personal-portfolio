@@ -63,8 +63,8 @@ first-personal-portfolio/
 
 ## 📸 Preview
 
-![Portfolio Screenshot](https://shoaibtaimur.github.io/first-personal-portfolio/assets/images/preview.png)  
-*(If you don’t have this image yet, add a screenshot later in `/assets/images/` and update the link.)*
+![Portfolio Screenshot](https://shoaibtaimur.github.io/first-personal-portfolio/assets/images/home-first-half.png)  
+![Portfolio Screenshot](https://shoaibtaimur.github.io/first-personal-portfolio/assets/images/home-second-half.png)  
 
 ---
 
