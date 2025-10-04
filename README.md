@@ -73,7 +73,7 @@ first-personal-portfolio/
 1. Clone the repository:
    ```bash
    git clone https://github.com/shoaibtaimur/first-personal-portfolio.git
-````
+
 
 2. Navigate to the project directory:
 
